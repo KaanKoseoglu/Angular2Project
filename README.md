@@ -6,10 +6,9 @@ This is an assignment to create a very basic Angular 2 app. The template that is
 ## Prerequisites
 The prerequisites are the same as the [angular-cli](https://github.com/angular/angular-cli) project.  
 
+# Description of the assignment
 
-# Description of the Assignment
-
-* To start you can use the template version of this project on github
+* Start a new angular 2 project (*)
 
 * The data available on following url must be visualized
   [http://www.aarixa.be/assignment_jobs.php](http://www.aarixa.be/assignment_jobs.php)
@@ -26,8 +25,24 @@ The prerequisites are the same as the [angular-cli](https://github.com/angular/a
 For visualisation it's allowed to use CSS frameworks like [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) , [angular2-materialize](https://www.npmjs.com/package/angular2-materialize),.. or others that support angular 2.
 
 
+## (*) How to get started 
+This a possible way to start your project, you can start with this project as a template but you can also use your own angularJS 2 quickstart, include the steps that you followed in the Readme.md in your submission
 
-# Submission of the Assignment
+* Get this project on your local machine using command
+``` dos
+git clone git://github.com/aariXa/ng-be.git
+```
+
+* Go to the retrieved directory and run the the package installer
+``` dos
+cd ng-be
+npm install
+```
+During the npm install you can see errors or warnings, this is normal and this is the same behaviour in the current young angular-cli project.
+
+ 
+
+# Submission of the assignment
 
 Follow the instructions on the assignment form for submission of the assignment.
 
