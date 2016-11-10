@@ -1,4 +1,4 @@
-# Angular 2 Assignment
+# Angular 2 assignment
 
 ## Note
 This is an assignment to create a very basic Angular 2 app. The template that is used is a derivation of the [angular-cli](https://github.com/angular/angular-cli) start project 
@@ -22,7 +22,7 @@ The prerequisites are the same as the [angular-cli](https://github.com/angular/a
   * It should be possible to filter at least at frontEnd, Java and dotNet
   * Nice to have is search function that is searching on all the JSON content returned form the url
 
-For visualisation it's allowed to use CSS frameworks like [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) , [angular2-materialize](https://www.npmjs.com/package/angular2-materialize),.. or others that support angular 2.
+For visualisation it's allowed to use CSS frameworks like [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) , [angular2-materialize](https://www.npmjs.com/package/angular2-materialize),.. or others that support angular.
 
 
 ## (*) How to get started 
@@ -38,9 +38,27 @@ git clone git://github.com/aariXa/ng-be.git
 cd ng-be
 npm install
 ```
-During the npm install you can see errors or warnings, this is normal and this is the same behaviour in the current young angular-cli project.
+During the npm install you can see errors or warnings, this is normal and this is the same behaviour in the current young angular-cli beta project.
 
- 
+
+* When you use visual studio code as IDE for development execute
+``` dos
+code .
+```
+
+* Start your developemt server from command line
+``` dos
+npm start
+```
+
+* You can also use the intergrated terminal window in visual studio code to start your development server ( View -> Integrated Terminal)
+* When you want to debug in visual studio code you can check the extention [Debugger for Chrome](https://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code)
+
+* Open your Chrome Browser and go to following url for opening your start page 
+``` dos
+http://localhost:4200
+```
+
 
 # Submission of the assignment
 
