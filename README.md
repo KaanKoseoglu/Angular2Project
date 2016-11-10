@@ -59,10 +59,15 @@ npm start
 http://localhost:4200
 ```
 
+* To create a deployable version execute following command, this generates dist folder that you can deploy on your webserver.
+``` dos
+ng build
+```
 
 # Submission of the assignment
-
 Follow the instructions on the assignment form for submission of the assignment.
+
+The submission must also contain the steps to start the development and creation of the build for deployment if it's different than the steps mentioned above.
 
 Good Luck
 
