@@ -13,12 +13,11 @@ The prerequisites are the same as the [angular-cli](https://github.com/angular/a
 * The data available on following url must be visualized
   [http://www.aarixa.be/assignment_jobs.php](http://www.aarixa.be/assignment_jobs.php)
   
-* All the pages must have the aariXa logo
+* The application must have the aariXa logo 
 
 ![alt text](http://www.aarixa.be/wp-content/uploads/2016/05/aariXa.png "Logo aariXa")
 
-
-* Make it possible to filter on the visualized data from the website, you can have a look on our jobpage to see an [example](http://www.aarixa.be/jobs/)
+* Make it possible to filter on the visualized data from the website, you can have a look on our jobpage to see an [example](http://www.aarixa.be/jobs/) (this example is not exactly what needs to recreated. preferable one page with filters)
   * It must be at least possible to filter on the categories 
     * All
     * frontEnd
@@ -26,7 +25,7 @@ The prerequisites are the same as the [angular-cli](https://github.com/angular/a
     * dotNet
   * Nice to have is search function that is searching on all the JSON content returned form the url
 
-For visualisation it's allowed to use CSS frameworks like [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) , [angular2-materialize](https://www.npmjs.com/package/angular2-materialize),.. or others that support angular.
+For visualisation it's allowed to use CSS frameworks like [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) , [angular2-materialize](https://www.npmjs.com/package/angular2-materialize),.. or others that support angular. 
 
 
 ## (*) How to get started 
